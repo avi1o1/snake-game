@@ -1,5 +1,5 @@
 # snake-game
-The Sanke Game implemented in C Language [ College Project ]
+The Snake Game implemented in C Language [ College Project ]
 
 Originally a "CS 61C Spring 2022, University of California, Berkley" Project (https://cs61c.org/fa23/projects/proj1/#conceptual-overview)
 
