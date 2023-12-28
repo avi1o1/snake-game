@@ -1,7 +1,7 @@
 # snake-game
 The Snake Game implemented in C Language [ College Project ]
 
-Originally a "CS 61C Spring 2022, University of California, Berkley" Project (https://cs61c.org/fa23/projects/proj1/#conceptual-overview)
+Originally a "CS 61C Spring 2022, University of California, Berkley" Project (https://cs61c.org/fa23/projects/proj1)
 
 I took up the project as a voluntary exercise for practicing C, on recommendation of my professor, Mr. Girish Varma ( Assistant Professor at CSTAR, IIIT-H ).
 The activity was a fun and educational experience which helped me strengthen my core concepts in the C language.
